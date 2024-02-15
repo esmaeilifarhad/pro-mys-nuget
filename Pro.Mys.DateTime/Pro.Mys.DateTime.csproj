@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Description>use this package for convert Date to persian and reverse date</Description>
+    <Version>1.0.0</Version>
+    <Authors>farhad.esmaeili</Authors>
+    <Company>NovinIt</Company>
+    <Product>myProduct</Product>
+    <Title>Pro.Mys.DateTime</Title>
+  </PropertyGroup>
+
+</Project>
